@@ -33,3 +33,6 @@ Steps for starting server.
 <br>
 $ export FLASK_APP=app.py
 $ python -m flask run
+
+
+![image](https://github.com/user-attachments/assets/d3b83b1c-f791-4373-a9d7-99855035cd24)
