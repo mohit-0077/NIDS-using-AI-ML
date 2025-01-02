@@ -1,4 +1,4 @@
-NETWORK INTRUSION DETECTION SYSTEM USING AI/ML
+<h1 align ="center"><br>NETWORK INTRUSION DETECTION SYSTEM USING AI/ML</h1>
 
 <br>This project presents an Intrusion Detection System (IDS) using machine learning to 
 enhance network security by identifying and classifying potential cyber threats.
@@ -6,7 +6,7 @@ enhance network security by identifying and classifying potential cyber threats.
 Project Contributors: 
 Mohit Kumar , Pragati Goel
 
-<br><br><br>
+<br><br>
 
 
 Problem Statement :
