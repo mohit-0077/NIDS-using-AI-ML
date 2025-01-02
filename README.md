@@ -25,7 +25,7 @@ learning algorithms: Random Forest and Support Vector Machine
 <br><br>
 
 <h3 align="left"> Setup <br> </h3>
-1. Create an virtual environment for using the specific python version.
+1. Create an virtual environment for using the specific python version.<br>
 2. To install requirements, run the following command.
 <br>
 $ pip install -r requirements.txt
@@ -33,6 +33,9 @@ Steps for starting server.
 <br>
 $ export FLASK_APP=app.py
 $ python -m flask run
-
+<br><br><br>
 
 ![image](https://github.com/user-attachments/assets/d3b83b1c-f791-4373-a9d7-99855035cd24)
+<br>
+![image](https://github.com/user-attachments/assets/e42817da-1ba8-47b7-85ce-f2950e2b6280)
+
