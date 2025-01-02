@@ -23,8 +23,9 @@ learning algorithms: Random Forest and Support Vector Machine
 <br><br>
 Setup<br>
 1. Create an virtual environment for using the specific python version.
-To install requirements, run the following command.
-<br><br>
+
+2. To install requirements, run the following command.
+<br>
 $ pip install -r requirements.txt
 Steps for starting server.
 <br>
