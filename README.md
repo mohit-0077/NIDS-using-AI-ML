@@ -4,8 +4,14 @@ This project presents an Intrusion Detection System (IDS) using machine learning
 enhance network security by identifying and classifying potential cyber threats.
 
 
+
+
+
 Project Contributors: 
 Mohit Kumar , Pragati Goel
+
+
+
 
 Problem Statement :
 The motivation behind the “Network Intrusion Detection Using ML” project is driven 
